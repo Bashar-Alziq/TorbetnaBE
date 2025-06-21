@@ -1,0 +1,6 @@
+@TorbetnaBE_HostAddress = http://localhost:5273
+
+GET {{TorbetnaBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
